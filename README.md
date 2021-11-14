@@ -6,4 +6,3 @@ The most common method for fitting a regression line is the method of least-squa
 In this project, I made a very basic LR program in Python on study hours and marks data and with a regression line we predict other data too.
 
 By - Rishi Mahajan 
-Instagram - @bloodshed_developer
